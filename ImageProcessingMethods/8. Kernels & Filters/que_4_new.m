@@ -1,0 +1,31 @@
+clc
+clear all
+close all
+[x,y]=meshgrid(-pi:.1:pi);
+f1=cos(3.*x);
+f2=cos(5.*y);
+f3=f1.*f2;
+subplot(3,3,1)
+mesh(x,y,f1)
+subplot(3,3,2)
+mesh(x,y,f2)
+subplot(3,3,3)
+mesh(x,y,f3)
+fou1=fft(f1);
+subplot(3,3,4)
+mesh(x,y,abs(fou1))
+fou2=fft(f2);
+subplot(3,3,5)
+mesh(x,y,abs(fou2))
+fou3=fft(f3);
+subplot(3,3,6)
+mesh(x,y,abs(fou3))
+shif1=fftshift(fou1);
+subplot(3,3,7)
+mesh(x,y,abs(shif1))
+shif2=fftshift(fou2);
+subplot(3,3,8)
+mesh(x,y,abs(shif2))
+shif3=fftshift(fou3);
+subplot(3,3,9)
+mesh(x,y,abs(shif3))
