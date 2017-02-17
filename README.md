@@ -18,3 +18,7 @@ Output of the project can be found here <a href="https://cdn.rawgit.com/dhinkris
  <b>Opening and Closing  </b><br/>
  <b>Radon Transform </b><br/>
  <b>Fourier Transfor </b><br/>
+ <b>Smoothing/ Shapening/ Edge Detection </b><br/>
+ <b>Sobel Filter </b><br/>
+ <b>ITF/k-space </b><br/>
+ <b>2D/3D Plotting </b><br/>
