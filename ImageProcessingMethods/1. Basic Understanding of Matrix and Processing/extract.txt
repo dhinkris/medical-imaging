@@ -1,0 +1,32 @@
+SiteID	SubjID	BYear	Hand	Sex	TDate	TTime	Sessn	TCode	GMLidx	mps	dur	ter	ler	rer	per	lmn	lsd	acc	cor	err	presnt	cmv	rth	sti	cfo	res	protocolId
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL			285711					3.41065	0.25800	0.91610	56	33	89			56		89	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL1			34343					3.35911	0.12353	1.57080	8	0	8			8		8	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL2			55670					3.64932	0.25294	0.68472	8	12	20			8		20	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL3			41906					3.48351	0.20039	0.90183	8	5	13			8		13	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL4			39733					3.42891	0.24322	0.95532	8	4	12			8		12	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL5			37655					3.35004	0.29205	0.78540	8	8	16			8		16	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL6			34264					3.32654	0.22784	1.57080	8	0	8			8		8	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	CPAL7			34171					3.27711	0.31626	0.95532	8	4	12			8		12	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	DET								2.49679	0.10612	1.57080	35	0	35			35			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GMCT	-1	1.76673	29999	0	0	0	0							53	0				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GMR	10	0.70636	39640	7	7	0	0							28	7				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML	10	0.80832	173199	53	44	9	0							140	52				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML1	10	0.54769	51124	22	16	6	0							28	23				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML2	10	1.09877	25483	10	10	0	0							28	10				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML3	10	1.13278	24718	9	8	1	0							28	8				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML4	10	1.09273	25624	8	6	2	0							28	7				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	GML5	10	1.06541	26281	4	4	0	0							28	4				Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ISL			226416							0.95532	24	5				36		29	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ISL1			46484							0.61548	4	1				12		5	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ISL2			40718							1.15026	10	2				12		12	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ISL3			46687							1.15026	10	2				12		12	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ISRL			63311							1.15026	10	0				12		10	Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	ONB								2.93070	0.14514	1.22594	31	4	35			35			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETS								2.98481	0.26094	0.96735	120	57	177			120			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSED								2.96082	0.24363	1.14260	24	5	29			24			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSEDR								2.88909	0.22143	0.99759	24	10	34			24			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSID								3.04970	0.23120	0.90183	24	15	39			24			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSIDR								2.91378	0.25342	0.90183	24	15	39			24			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSVD								3.16685	0.31321	0.95532	12	6	18			12			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	SETSVDR								3.05443	0.28798	0.95532	12	6	18			12			Research2
+PTSD	SamuelChristy	1992	Right	Male	12-18-2015	19:17:04	Practice	TWOB								3.19459	0.15992	1.27367	32	3	35			35			Research2

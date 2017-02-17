@@ -1,0 +1,11 @@
+[q,r]=deconv([14,-6,3,9],[5,7,-4])
+num=[3,-12,20];
+den=[1,-7,10];
+dt=0.04;
+x1=[0:0.01:2-dt];
+x2=[2+dt:0.01:5-dt];
+x3=[5+dt:0.01:7];
+y1=polyval(num,x1)./polyval(den,x1)
+y2=polyval(num,x2)./polyval(den,x2)
+y3=polyval(num,x3)./polyval(den,x3)
+plot(x1,y1,x2,y2,x3,y3)
